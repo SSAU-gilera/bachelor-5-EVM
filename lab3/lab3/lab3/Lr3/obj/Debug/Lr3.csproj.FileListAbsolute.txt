@@ -1,0 +1,41 @@
+C:\Users\Alsu\Desktop\5 семестр\Практикум на ЭВМ. БД\Lr3\Lr3\bin\Debug\Lr3.exe.config
+C:\Users\Alsu\Desktop\5 семестр\Практикум на ЭВМ. БД\Lr3\Lr3\bin\Debug\Lr3.exe
+C:\Users\Alsu\Desktop\5 семестр\Практикум на ЭВМ. БД\Lr3\Lr3\bin\Debug\Lr3.pdb
+C:\Users\Alsu\Desktop\5 семестр\Практикум на ЭВМ. БД\Lr3\Lr3\obj\Debug\Lr3.Form1.resources
+C:\Users\Alsu\Desktop\5 семестр\Практикум на ЭВМ. БД\Lr3\Lr3\obj\Debug\Lr3.Properties.Resources.resources
+C:\Users\Alsu\Desktop\5 семестр\Практикум на ЭВМ. БД\Lr3\Lr3\obj\Debug\Lr3.csproj.GenerateResource.Cache
+C:\Users\Alsu\Desktop\5 семестр\Практикум на ЭВМ. БД\Lr3\Lr3\obj\Debug\Lr3.csproj.CoreCompileInputs.cache
+C:\Users\Alsu\Desktop\5 семестр\Практикум на ЭВМ. БД\Lr3\Lr3\obj\Debug\Lr3.exe
+C:\Users\Alsu\Desktop\5 семестр\Практикум на ЭВМ. БД\Lr3\Lr3\obj\Debug\Lr3.pdb
+C:\Users\Alsu\Desktop\5 семестр\Практикум на ЭВМ. БД\Lr3\Lr3\obj\Debug\Lr3.csprojResolveAssemblyReference.cache
+C:\Users\Alsu\Desktop\5 семестр\Практикум на ЭВМ. БД\Lr3\Lr3\obj\Debug\Lr3.Banks.resources
+C:\Users\Alsu\Desktop\5 семестр\Практикум на ЭВМ. БД\Lr3\Lr3\obj\Debug\Lr3.ATM.resources
+C:\Users\Alsu\Desktop\5 семестр\Практикум на ЭВМ. БД\Lr3\Lr3\obj\Debug\Lr3.Clients.resources
+C:\Users\Alsu\Desktop\5 семестр\Практикум на ЭВМ. БД\Lr3\Lr3\obj\Debug\Lr3.Operations.resources
+C:\Users\Lera\Downloads\Lr3\Lr3\Lr3\bin\Debug\Lr3.exe.config
+C:\Users\Lera\Downloads\Lr3\Lr3\Lr3\bin\Debug\Lr3.exe
+C:\Users\Lera\Downloads\Lr3\Lr3\Lr3\bin\Debug\Lr3.pdb
+C:\Users\Lera\Downloads\Lr3\Lr3\Lr3\obj\Debug\Lr3.csprojAssemblyReference.cache
+C:\Users\Lera\Downloads\Lr3\Lr3\Lr3\obj\Debug\Lr3.ATM.resources
+C:\Users\Lera\Downloads\Lr3\Lr3\Lr3\obj\Debug\Lr3.Banks.resources
+C:\Users\Lera\Downloads\Lr3\Lr3\Lr3\obj\Debug\Lr3.Clients.resources
+C:\Users\Lera\Downloads\Lr3\Lr3\Lr3\obj\Debug\Lr3.Form1.resources
+C:\Users\Lera\Downloads\Lr3\Lr3\Lr3\obj\Debug\Lr3.Operations.resources
+C:\Users\Lera\Downloads\Lr3\Lr3\Lr3\obj\Debug\Lr3.Properties.Resources.resources
+C:\Users\Lera\Downloads\Lr3\Lr3\Lr3\obj\Debug\Lr3.csproj.GenerateResource.cache
+C:\Users\Lera\Downloads\Lr3\Lr3\Lr3\obj\Debug\Lr3.csproj.CoreCompileInputs.cache
+C:\Users\Lera\Downloads\Lr3\Lr3\Lr3\obj\Debug\Lr3.exe
+C:\Users\Lera\Downloads\Lr3\Lr3\Lr3\obj\Debug\Lr3.pdb
+C:\Users\Lera\Desktop\University\Study\ЭВМ\lab3\lab3\Lr3\obj\Debug\Lr3.Form1.resources
+C:\Users\Lera\Desktop\University\Study\ЭВМ\lab3\lab3\Lr3\obj\Debug\Lr3.Properties.Resources.resources
+C:\Users\Lera\Desktop\University\Study\ЭВМ\lab3\lab3\Lr3\obj\Debug\Lr3.csproj.GenerateResource.cache
+C:\Users\Lera\Desktop\University\Study\ЭВМ\lab3\lab3\Lr3\obj\Debug\Lr3.csproj.CoreCompileInputs.cache
+C:\Users\Lera\Desktop\University\Study\ЭВМ\lab3\lab3\Lr3\obj\Debug\Lr3.exe
+C:\Users\Lera\Desktop\University\Study\ЭВМ\lab3\lab3\Lr3\obj\Debug\Lr3.pdb
+C:\Users\Lera\Desktop\University\Study\ЭВМ\lab3\lab3\Lr3\bin\Debug\Lr3.exe.config
+C:\Users\Lera\Desktop\University\Study\ЭВМ\lab3\lab3\Lr3\bin\Debug\Lr3.exe
+C:\Users\Lera\Desktop\University\Study\ЭВМ\lab3\lab3\Lr3\bin\Debug\Lr3.pdb
+C:\Users\Lera\Desktop\University\Study\ЭВМ\lab3\lab3\Lr3\obj\Debug\Lr3.Products.resources
+C:\Users\Lera\Desktop\University\Study\ЭВМ\lab3\lab3\Lr3\obj\Debug\Lr3.Shop.resources
+C:\Users\Lera\Desktop\University\Study\ЭВМ\lab3\lab3\Lr3\obj\Debug\Lr3.Orders.resources
+C:\Users\Lera\Desktop\University\Study\ЭВМ\lab3\lab3\Lr3\obj\Debug\Lr3.Delivery.resources

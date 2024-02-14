@@ -1,0 +1,105 @@
+C:\Users\Alsu\Desktop\5 семестр\Практикум на ЭВМ. БД\Lr3\Lr3\bin\Debug\Lr3.exe.config
+C:\Users\Alsu\Desktop\5 семестр\Практикум на ЭВМ. БД\Lr3\Lr3\bin\Debug\Lr3.exe
+C:\Users\Alsu\Desktop\5 семестр\Практикум на ЭВМ. БД\Lr3\Lr3\bin\Debug\Lr3.pdb
+C:\Users\Alsu\Desktop\5 семестр\Практикум на ЭВМ. БД\Lr3\Lr3\obj\Debug\Lr3.Form1.resources
+C:\Users\Alsu\Desktop\5 семестр\Практикум на ЭВМ. БД\Lr3\Lr3\obj\Debug\Lr3.Properties.Resources.resources
+C:\Users\Alsu\Desktop\5 семестр\Практикум на ЭВМ. БД\Lr3\Lr3\obj\Debug\Lr3.csproj.GenerateResource.Cache
+C:\Users\Alsu\Desktop\5 семестр\Практикум на ЭВМ. БД\Lr3\Lr3\obj\Debug\Lr3.csproj.CoreCompileInputs.cache
+C:\Users\Alsu\Desktop\5 семестр\Практикум на ЭВМ. БД\Lr3\Lr3\obj\Debug\Lr3.exe
+C:\Users\Alsu\Desktop\5 семестр\Практикум на ЭВМ. БД\Lr3\Lr3\obj\Debug\Lr3.pdb
+C:\Users\Alsu\Desktop\5 семестр\Практикум на ЭВМ. БД\Lr3\Lr3\obj\Debug\Lr3.csprojResolveAssemblyReference.cache
+C:\Users\Alsu\Desktop\5 семестр\Практикум на ЭВМ. БД\Lr3\Lr3\obj\Debug\Lr3.Banks.resources
+C:\Users\Alsu\Desktop\5 семестр\Практикум на ЭВМ. БД\Lr3\Lr3\obj\Debug\Lr3.ATM.resources
+C:\Users\Alsu\Desktop\5 семестр\Практикум на ЭВМ. БД\Lr3\Lr3\obj\Debug\Lr3.Clients.resources
+C:\Users\Alsu\Desktop\5 семестр\Практикум на ЭВМ. БД\Lr3\Lr3\obj\Debug\Lr3.Operations.resources
+C:\Users\Lera\Downloads\Lr3\Lr3\Lr3\bin\Debug\Lr3.exe.config
+C:\Users\Lera\Downloads\Lr3\Lr3\Lr3\bin\Debug\Lr3.exe
+C:\Users\Lera\Downloads\Lr3\Lr3\Lr3\bin\Debug\Lr3.pdb
+C:\Users\Lera\Downloads\Lr3\Lr3\Lr3\obj\Debug\Lr3.csprojAssemblyReference.cache
+C:\Users\Lera\Downloads\Lr3\Lr3\Lr3\obj\Debug\Lr3.ATM.resources
+C:\Users\Lera\Downloads\Lr3\Lr3\Lr3\obj\Debug\Lr3.Banks.resources
+C:\Users\Lera\Downloads\Lr3\Lr3\Lr3\obj\Debug\Lr3.Clients.resources
+C:\Users\Lera\Downloads\Lr3\Lr3\Lr3\obj\Debug\Lr3.Form1.resources
+C:\Users\Lera\Downloads\Lr3\Lr3\Lr3\obj\Debug\Lr3.Operations.resources
+C:\Users\Lera\Downloads\Lr3\Lr3\Lr3\obj\Debug\Lr3.Properties.Resources.resources
+C:\Users\Lera\Downloads\Lr3\Lr3\Lr3\obj\Debug\Lr3.csproj.GenerateResource.cache
+C:\Users\Lera\Downloads\Lr3\Lr3\Lr3\obj\Debug\Lr3.csproj.CoreCompileInputs.cache
+C:\Users\Lera\Downloads\Lr3\Lr3\Lr3\obj\Debug\Lr3.exe
+C:\Users\Lera\Downloads\Lr3\Lr3\Lr3\obj\Debug\Lr3.pdb
+C:\Users\Lera\Desktop\University\Study\ЭВМ\lab3\lab3\Lr3\obj\Debug\Lr3.Form1.resources
+C:\Users\Lera\Desktop\University\Study\ЭВМ\lab3\lab3\Lr3\obj\Debug\Lr3.Properties.Resources.resources
+C:\Users\Lera\Desktop\University\Study\ЭВМ\lab3\lab3\Lr3\obj\Debug\Lr3.csproj.GenerateResource.cache
+C:\Users\Lera\Desktop\University\Study\ЭВМ\lab3\lab3\Lr3\obj\Debug\Lr3.csproj.CoreCompileInputs.cache
+C:\Users\Lera\Desktop\University\Study\ЭВМ\lab3\lab3\Lr3\obj\Debug\Lr3.exe
+C:\Users\Lera\Desktop\University\Study\ЭВМ\lab3\lab3\Lr3\obj\Debug\Lr3.pdb
+C:\Users\Lera\Desktop\University\Study\ЭВМ\lab3\lab3\Lr3\bin\Debug\Lr3.exe.config
+C:\Users\Lera\Desktop\University\Study\ЭВМ\lab3\lab3\Lr3\bin\Debug\Lr3.exe
+C:\Users\Lera\Desktop\University\Study\ЭВМ\lab3\lab3\Lr3\bin\Debug\Lr3.pdb
+C:\Users\Lera\Desktop\University\Study\ЭВМ\lab3\lab3\Lr3\obj\Debug\Lr3.Products.resources
+C:\Users\Lera\Desktop\University\Study\ЭВМ\lab3\lab3\Lr3\obj\Debug\Lr3.Shop.resources
+C:\Users\Lera\Desktop\University\Study\ЭВМ\lab3\lab3\Lr3\obj\Debug\Lr3.Orders.resources
+C:\Users\Lera\Desktop\University\Study\ЭВМ\lab3\lab3\Lr3\obj\Debug\Lr3.Delivery.resources
+C:\Users\Lera\Desktop\University\Study\ЭВМ\lab3\lab3\Lr3\obj\Debug\Lr3.csprojAssemblyReference.cache
+C:\Users\Lera\Desktop\University\Study\ЭВМ\lab3\lab3\Lr3\obj\Debug\Lr3.Magazine.resources
+C:\Users\Lera\Desktop\University\Study\ЭВМ\lab3\lab3\Lr3\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Lera\Desktop\University\Study\ЭВМ\lab3\lab3\Lr3\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Lera\Desktop\University\Study\ЭВМ\lab3\lab3\Lr3\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Lera\Desktop\University\Study\ЭВМ\lab3\lab3\Lr3\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Lera\Desktop\University\Study\ЭВМ\lab3\lab3\Lr3\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Lera\Desktop\University\Study\ЭВМ\lab3\lab3\Lr3\obj\Debug\Lr3.csproj.CopyComplete
+C:\Users\Lera\Desktop\University\Study\ЭВМ\lab3\lab3\Lr3\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Lera\Desktop\University\Study\ЭВМ\lab3\lab3\Lr3\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Lera\Desktop\University\Study\ЭВМ\lab3\lab3\Lr3\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Lera\Desktop\University\Study\ЭВМ\lab3\lab3\Lr3\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Lera\Desktop\University\Study\ЭВМ\lab3\lab3\Lr3\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Lera\Desktop\University\Study\ЭВМ\lab3\lab3\Lr3\bin\Debug\EnvDTE.dll
+C:\Users\Lera\Desktop\University\Study\ЭВМ\lab3\lab3\Lr3\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Lera\Desktop\University\Study\ЭВМ\lab3\lab3\Lr3\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Lera\Desktop\University\Study\ЭВМ\lab3\lab3\Lr3\bin\Debug\stdole.dll
+C:\Users\Lera\Desktop\University\Study\ЭВМ\lab3\lab3\Lr3\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Lera\Desktop\University\Study\ЭВМ\lab3\lab3\Lr3\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Lera\Desktop\University\Study\ЭВМ\lab3\lab3\Lr3\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Lera\Desktop\University\Study\ЭВМ\lab3\lab3\Lr3\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Lera\Desktop\University\Study\ЭВМ\lab3\lab3\Lr3\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lera\Desktop\University\Study\ЭВМ\lab3\lab3\Lr3\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lera\Desktop\University\Study\ЭВМ\lab3\lab3\Lr3\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lera\Desktop\University\Study\ЭВМ\lab3\lab3\Lr3\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lera\Desktop\University\Study\ЭВМ\lab3\lab3\Lr3\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lera\Desktop\University\Study\ЭВМ\lab3\lab3\Lr3\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lera\Desktop\University\Study\ЭВМ\lab3\lab3\Lr3\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lera\Desktop\University\Study\ЭВМ\lab3\lab3\Lr3\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lera\Desktop\University\Study\ЭВМ\lab3\lab3\Lr3\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lera\Desktop\University\Study\ЭВМ\lab3\lab3\Lr3\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Lera\Desktop\University\Study\ЭВМ\lab3\lab3\Lr3\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lera\Desktop\University\Study\ЭВМ\lab3\lab3\Lr3\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lera\Desktop\University\Study\ЭВМ\lab3\lab3\Lr3\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lera\Desktop\University\Study\ЭВМ\lab3\lab3\Lr3\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lera\Desktop\University\Study\ЭВМ\lab3\lab3\Lr3\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lera\Desktop\University\Study\ЭВМ\lab3\lab3\Lr3\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lera\Desktop\University\Study\ЭВМ\lab3\lab3\Lr3\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lera\Desktop\University\Study\ЭВМ\lab3\lab3\Lr3\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lera\Desktop\University\Study\ЭВМ\lab3\lab3\Lr3\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lera\Desktop\University\Study\ЭВМ\lab3\lab3\Lr3\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Lera\Desktop\University\Study\ЭВМ\lab3\lab3\Lr3\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lera\Desktop\University\Study\ЭВМ\lab3\lab3\Lr3\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lera\Desktop\University\Study\ЭВМ\lab3\lab3\Lr3\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lera\Desktop\University\Study\ЭВМ\lab3\lab3\Lr3\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lera\Desktop\University\Study\ЭВМ\lab3\lab3\Lr3\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lera\Desktop\University\Study\ЭВМ\lab3\lab3\Lr3\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lera\Desktop\University\Study\ЭВМ\lab3\lab3\Lr3\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lera\Desktop\University\Study\ЭВМ\lab3\lab3\Lr3\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lera\Desktop\University\Study\ЭВМ\lab3\lab3\Lr3\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lera\Desktop\University\Study\ЭВМ\lab3\lab3\Lr3\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Lera\Desktop\University\Study\ЭВМ\lab3\lab3\Lr3\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lera\Desktop\University\Study\ЭВМ\lab3\lab3\Lr3\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lera\Desktop\University\Study\ЭВМ\lab3\lab3\Lr3\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lera\Desktop\University\Study\ЭВМ\lab3\lab3\Lr3\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lera\Desktop\University\Study\ЭВМ\lab3\lab3\Lr3\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lera\Desktop\University\Study\ЭВМ\lab3\lab3\Lr3\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lera\Desktop\University\Study\ЭВМ\lab3\lab3\Lr3\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lera\Desktop\University\Study\ЭВМ\lab3\lab3\Lr3\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lera\Desktop\University\Study\ЭВМ\lab3\lab3\Lr3\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lera\Desktop\University\Study\ЭВМ\lab3\lab3\Lr3\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Lera\Desktop\University\Study\ЭВМ\lab3\lab3\Lr3\obj\Debug\Lr3.lab4.resources
+C:\Users\Lera\Desktop\University\Study\ЭВМ\lab3\lab3\Lr3\obj\Debug\RdlCompile.cache
+C:\Users\Lera\Desktop\University\Study\ЭВМ\lab3\lab3\Lr3\obj\Debug\RdlCompile.compiled
